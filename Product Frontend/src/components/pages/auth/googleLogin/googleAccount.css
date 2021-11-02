@@ -1,0 +1,11 @@
+.btnGoogle {
+  justify-content: center;
+  height: 40px;
+  width: 100%;
+  background-color: #e0e0e0 !important;
+  border-radius: 5px !important;
+}
+
+.login-page {
+  width: 100%;
+}

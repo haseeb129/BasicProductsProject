@@ -1,0 +1,16 @@
+instructions
+download and install node.js
+download and install mongoDB
+
+extract the file
+
+go inside frontend folder with cammand line and run cammand "npm i " 
+after the dependencies install 
+then run cammand "npm start "
+
+go inside backend folder with cammand line and run cammand "npm i " 
+after the dependencies install 
+then run cammand "nodemon server.js "
+
+
+now you are good to go and run your project
